@@ -47,6 +47,6 @@ Built a phishing simulation using Evilginx2 and Gophish to demonstrate real-worl
 
 ## Contact
 
-📧 **Email**: connordevore@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/connordevore](https://linkedin.com/in/connordevore)  
-💻 **GitHub**: [github.com/connordevore](https://github.com/connordevore)
+**Email**: connordevore@gmail.com  
+**LinkedIn**: [linkedin.com/in/connordevore](https://linkedin.com/in/connordevore)  
+**GitHub**: [github.com/connordevore](https://github.com/connordevore)
