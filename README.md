@@ -14,13 +14,13 @@ Looking to join a team where I can contribute to defense, learn from real-world 
 
 ## Projects & Labs
 
-### 🔹 Blue Team Lab: Homegrown SOC Simulator  
+### Blue Team Lab: Homegrown SOC Simulator  
 Simulated a small-scale SOC environment using Wazuh, Zeek, and the ELK stack on a virtual lab.  
 - Deployed Suricata for NIDS coverage  
 - Wrote custom Sigma rules for brute-force and beaconing  
 - Logged and triaged a simulated phishing attempt  
 
-### 🔹 Evilginx2 + Gophish: Seamless Microsoft 365 Session Hijack Simulation  
+### Evilginx2 + Gophish: Seamless Microsoft 365 Session Hijack Simulation  
 Built a phishing simulation using Evilginx2 and Gophish to demonstrate real-world risks of OAuth-based session hijacking in Microsoft 365 Business environments.  
 - Deployed phishing campaign to emulate OAuth token theft in Microsoft 365  
 - Used a public Microsoft phishlet to capture access tokens and session cookies  
@@ -28,7 +28,7 @@ Built a phishing simulation using Evilginx2 and Gophish to demonstrate real-worl
 
 ---
 
-## 🚧 Works in Progress
+## Works in Progress
 
 - **Phishing Projects**: Custom Evilginx Phishlets, Google Calendar / GSuite exploits  
 - **Python Projects**: Malware persistence checker, resume/cover letter automation tool  
@@ -36,7 +36,7 @@ Built a phishing simulation using Evilginx2 and Gophish to demonstrate real-worl
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 **Security Tools**: ELK, Evilginx, Gophish, Splunk, Wireshark, Nmap, Burp Suite, Metasploit  
 **Languages**: Python (basic scripting), SQL (log queries)  
@@ -45,7 +45,7 @@ Built a phishing simulation using Evilginx2 and Gophish to demonstrate real-worl
 
 ---
 
-## 📬 Contact
+## Contact
 
 📧 **Email**: connordevore@gmail.com  
 🔗 **LinkedIn**: [linkedin.com/in/connordevore](https://linkedin.com/in/connordevore)  
