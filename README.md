@@ -29,6 +29,7 @@ Evilginx2 + Gophish: Seamless Microsoft 365 Session Hijack Simulation
 ---
 
 ## Skills & Tools
+
 **Security Tools**: Wazuh, ELK, Zeek, Suricata, Wireshark, Gophish, Nmap, Burp Suite, Metasploit  
 **Languages**: Python (basic scripting), SQL (log queries)  
 **Platforms**: Kali Linux, Ubuntu, pfSense, Windows AD  
@@ -36,6 +37,7 @@ Evilginx2 + Gophish: Seamless Microsoft 365 Session Hijack Simulation
 ---
 
 ## Works in Progress
+
 **Phishing Projects**: Custom Evilginx Phishlets, Google Calender/GSuite exploits
 **Python Projects**: Script to check for and remove Malware Persistence, Custom Resume/Cover Letter Updating Script
 **Learning and Courses**: Complete Splunk Training, CCNA Certification
