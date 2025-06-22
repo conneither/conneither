@@ -1,5 +1,5 @@
 # Connor Devore  
-**Aspiring SOC Analyst & Incident Response Analyst • Security Lab Rat • Always Learning**  
+**CompTIA Certified Cyber Security and IT Specialist | Incident Detection and Response, Phishing Tactics and Techniques, and Identity and Access Management**  
 New York, NY | connordevore@gmail.com | [connordevore.com](https://connordevore.com)
 
 ---
