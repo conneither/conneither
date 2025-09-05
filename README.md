@@ -1,7 +1,6 @@
 # Connor Devore  
 **IT & Cybersecurity | CompTIA Security+ | Google Cybersecurity v2**  
-Brooklny, NY
-[connor.devore@gmail.com](mailto:connor.devore@gmail.com) | [linkedin.com/in/connordevore](https://linkedin.com/in/connordevore)  
+Brooklyn, NY  
 
 ---
 
@@ -14,4 +13,7 @@ Brooklny, NY
 
 ### Works in Progress  
 - **Phishing Projects**: Custom Evilginx Phishlets  
-- **Python Projects**: TV Episode Comparative Ranking App  
+- **Python Projects**: TV Episode Comparative Ranking App
+
+--
+Contact: [connor.devore@gmail.com](mailto:connor.devore@gmail.com), [linkedin.com/in/connordevore](https://linkedin.com/in/connordevore)  
