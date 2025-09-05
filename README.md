@@ -1,5 +1,6 @@
 # Connor Devore  
 IT & Cybersecurity (CompTIA Security+, Google Cybersecurity v2)
+
 Brooklyn, NY | [connor.devore@gmail.com](mailto:connor.devore@gmail.com) | [linkedin.com/in/connordevore](https://linkedin.com/in/connordevore)
 ---
 ## Projects
