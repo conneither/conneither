@@ -15,5 +15,5 @@ Brooklyn, NY
 - **Phishing Projects**: Custom Evilginx Phishlets  
 - **Python Projects**: TV Episode Comparative Ranking App
 
---
-Contact: [connor.devore@gmail.com](mailto:connor.devore@gmail.com), [linkedin.com/in/connordevore](https://linkedin.com/in/connordevore)  
+---
+##### Contact: [connor.devore@gmail.com](mailto:connor.devore@gmail.com), [linkedin.com/in/connordevore](https://linkedin.com/in/connordevore)  
