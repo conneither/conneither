@@ -1,6 +1,7 @@
 # Connor Devore  
 **IT & Cybersecurity | CompTIA Security+ | Google Cybersecurity v2**  
 Brooklyn, NY  
+
 ---
 
 ### Projects  
@@ -14,4 +15,5 @@ Brooklyn, NY
 - **Python Projects**: TV Episode Comparative Ranking App
 
 ---
+
 #### Contact: <a href="mailto:connor.devore@gmail.com">connor.devore@gmail.com</a>, [linkedin.com/in/connordevore](https://linkedin.com/in/connordevore)  
