@@ -1,7 +1,7 @@
-# Connor Devore  ---
+# Connor Devore  
 **IT & Cybersecurity | CompTIA Security+ | Google Cybersecurity v2**  
 Brooklyn, NY  
-
+---
 
 ### Projects  
 - [Evilginx2 + GoPhish: Seamless Microsoft 365 Session Hijack Simulation](https://github.com/conneither/phishing-simulation-lab)  
